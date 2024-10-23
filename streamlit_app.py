@@ -12,4 +12,3 @@ st.info("파란색 창")
 st.warning("노란색 창") # ctrl+/ : 주석처리
 st.image("https://media.giphy.com/media/l1BgSJsYKTEierBBK/giphy.gif?cid=790b7611tlns0wkhjbtxtj3of4x7jqoivz3kivmzm83sxyo2&ep=v1_gifs_search&rid=giphy.gif&ct=g", caption="Welcome to coding world") 
 st.video("https://www.youtube.com/watch?v=72nMc4jEmbE&t=1638s")
-st.image("파란색 창") 
