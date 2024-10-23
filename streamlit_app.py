@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.title("👋🏻 연수실습페이지(1023)")
-st.subheader("환영합니다.")
+st.subheader("환영합니다1.")
 st.info("매일 매일 성장을 꿈꾸는 교사입니다.")
 
 st.link_button("네이버 바로가기", "https://www.naver.com")
